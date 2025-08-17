@@ -1,5 +1,5 @@
 import java.util.Date;
-public class Main 
+public class dateandtime 
 {
     public static void main(String args [])
     {
